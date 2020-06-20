@@ -10,7 +10,7 @@ public interface CommodityDao {
 
 	
 	
-	//删除商品
+	//删除商品//
     public int deleteById(Integer id);
 	
 	
